@@ -12,8 +12,8 @@
 [![No cloud required](https://img.shields.io/badge/No%20cloud-Required-blue)]()
 
 <picture>
-  <img alt="Screenshots" src="assets/tty_fm_ss.png" width="48%">
-  <img alt="Screenshots" src="assets/terminal_pic.png" width="48%">
+  <img alt="Screenshots" src="assets/tty_fm_ss.jpeg" width="48%">
+  <img alt="Screenshots" src="assets/terminal_pic.jpeg" width="48%">
 </picture>
 ---
 
