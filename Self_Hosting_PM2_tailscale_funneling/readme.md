@@ -11,9 +11,9 @@
 [![Perfect for beginners](https://img.shields.io/badge/Perfect%20for-Beginners-green)]()
 [![No cloud required](https://img.shields.io/badge/No%20cloud-Required-blue)]()
 
+![Photo 2](./assets/UI_music.jpeg)
 ![Photo 1](./assets/terminal_UI.jpeg)
 
-![Photo 2](./assets/UI_music.jpeg)
 
 ---
 
